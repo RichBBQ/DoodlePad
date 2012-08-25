@@ -1,0 +1,5 @@
+DoodlePad (Currently named doodie until I can think of something better)
+
+This is a play around porject to help myself learn javascript/css/jQuery/HTML5 and what not. 
+DoodlePad is a MS-Paint like webapp that allows concurrent drawing like google doc's concurrent editing of a same document. 
+Backend server uses with Node.js and I am currently using CloudFoundry to host a free working version of it at rshentestnode.cloudfoundry.com
