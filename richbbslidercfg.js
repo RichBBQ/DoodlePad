@@ -1,0 +1,12 @@
+var sliders = new Array();
+sliders[0] = new Object();
+sliders[0].min = 1;
+sliders[0].max = 10;
+sliders[0].val = 1;
+sliders[0].width = '160px';
+sliders[0].height = '21px';
+sliders[0].widthNob = '12px';
+sliders[0].heightNob = '21px';
+sliders[0].nobPos = '10px';
+sliders[0].sliderBase = 'slider_base.gif';
+sliders[0].sliderNob = 'slider_nob.gif';
