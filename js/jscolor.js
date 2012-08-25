@@ -914,8 +914,8 @@ var jscolor = {
 			case 0: jscolor.requireImage('../img/hs.png'); break;
 			case 1: jscolor.requireImage('../img/hv.png'); break;
 		}
-		jscolor.requireImage('cross.gif');
-		jscolor.requireImage('arrow.gif');
+		jscolor.requireImage('../img/cross.gif');
+		jscolor.requireImage('../img/arrow.gif');
 
 		this.importColor();
 	}

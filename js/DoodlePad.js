@@ -39,7 +39,7 @@
     var socketSite = 'http://rshentestnode.cloudfoundry.com';
     
     function init() {
-        setUpSocket();
+        //setUpSocket();
         canvas = document.getElementById("canvas");  
         widgets = document.getElementById("div_widgets");
         sliderBase = document.getElementById("slider_base");
